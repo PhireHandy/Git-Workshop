@@ -27,19 +27,12 @@
 
 	git config
 
-	git add
-		wooden box
-		makes the colour green
-	git
-
-	git commit
-		Most secure save (safe)
-
-	git init
-		intialise a new git repository
-
 	git status
 		tells us the status of the working directory
+		whatever is not in wooden box is in red 
+			(what is not in the saving area)
+		whatever is in green is in the wooden or metal box
+			(what is not in the working area)
 
 	git add
 		tells git to start tracking a file
