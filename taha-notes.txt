@@ -32,9 +32,9 @@
 
 	git status
 		tells us the status of the working directory
-		whatever is not in wooden box is in red 
+		no red = no cupboard box
 			(what is not in the saving area)
-		whatever is in green is in the wooden or metal box
+		no gree = no wooden box
 			(what is not in the working area)
 
 	git add
