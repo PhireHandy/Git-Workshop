@@ -36,10 +36,18 @@
 		Most secure save (safe)
 
 	git init
-		intialise
+		intialise a new git repository
 
 	git status
+		tells us the status of the working directory
 
+	git add
+		tells git to start tracking a file
+		(move to wooden box)
+
+	git commit -m "MESSAGE"
+		commit changes to the repository
+		(move stuff from wooden to metal box)
 
 
 
