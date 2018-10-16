@@ -27,6 +27,9 @@
 
 	git config
 
+==== Section 2: basic git commands
+==================
+
 	git status
 		tells us the status of the working directory
 		whatever is not in wooden box is in red 
@@ -42,6 +45,10 @@
 		commit changes to the repository
 		(move stuff from wooden to metal box)
 
+	git diff
+		shows is what has chamged between our working directory, staging area repository
 
+	git log
+		shows the commit history
 
 
