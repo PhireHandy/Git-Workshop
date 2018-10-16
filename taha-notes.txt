@@ -26,3 +26,21 @@
 	}
 
 	git config
+
+	git add
+		wooden box
+		makes the colour green
+	git
+
+	git commit
+		Most secure save (safe)
+
+	git init
+		intialise
+
+	git status
+
+
+
+
+
