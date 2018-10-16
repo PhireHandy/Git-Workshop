@@ -51,4 +51,17 @@
 	git log
 		shows the commit history
 
+	git log --oneline
+		shows all the commits in one line
+
+==== Git Summary
+==============
+
+	Commit:
+		<Explain>
+
+	Basic git workflow:
+	1.
+	2.
+	3.
 
