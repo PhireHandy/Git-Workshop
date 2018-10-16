@@ -59,9 +59,10 @@
 
 	Commit:
 		<Explain>
+		*Finalise the changes in the file to the repository?*
 
 	Basic git workflow:
-	1.
-	2.
-	3.
+	1. Edit/Change
+	2. Stage (Add)
+	3. Finalise (Commit)
 
