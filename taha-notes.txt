@@ -1,0 +1,28 @@
+==== Section 1: Command Line
+===========
+
+	mkdir (directory-name) {
+		make a new folder with name [directory-name]
+	}
+
+	ls {
+		displays a list of files and folders in the current folder
+	}
+
+	cd (directory-name) {
+		go into (directory-name)
+	}
+
+	touch (filename) {
+		creates a file with (file-name) if it was not already createdcat
+	}
+
+	cat (filename) {
+		displays contents of the file
+	}
+
+	pwd {
+		shows the directory youre currently working in
+	}
+
+	git config
